@@ -9,3 +9,5 @@ if you want to exclude some method from logging, then:
 - or use it for classes @Component 
 
 in the directory there is an example of a compiled file for integration into projects on the 15th JAVA version
+
+P.S. and don't forget about @ToString in your models, dto, entity etc...
