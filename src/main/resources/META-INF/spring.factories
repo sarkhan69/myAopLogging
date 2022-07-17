@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.log.loglib.asspect.LogAspect,\
+    com.log.loglib.asspect.LogBean
